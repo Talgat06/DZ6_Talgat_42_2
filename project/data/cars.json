@@ -1,0 +1,32 @@
+[
+    {
+        "name": "BMW",
+        "model": "M5 F90",
+        "cars_photo": "https://wallpapers.com/images/hd/bmw-m5-4k-4096-x-2731-4qq7mcstgaxxxx1g.jpg"
+    },
+    {
+        "name": "Mercedes",
+        "model": "CLS 63",
+        "cars_photo": "https://img.gta5-mods.com/q95/images/gta5korn-cls63s-stage-4-handling/3515cd-Used-2017-Mercedes-Benz-CLS-AMG-CLS-63-S.jpg"
+    },
+    {
+        "name": "BMW",
+        "model": "M5 E39",
+        "cars_photo": "https://hips.hearstapps.com/hmg-prod/images/mac07782-1626883777.jpg"
+    },
+    {
+        "name": "Mercedes",
+        "model": "W213",
+        "cars_photo": "https://i.infocar.ua/i/2/6241/118638/1920x.jpg"
+    },
+    {
+        "name": "BMW",
+        "model": "M5 E34",
+        "cars_photo": "https://vvm-auto.ru/images/VVM-AUTO/OPIT_EKSPLYATACI/BMW/BMW-5-e34/BMW-5-e34-5.jpg"
+    },
+    {
+        "name": "Mercedes",
+        "model": "AMG GT63S",
+        "cars_photo": "https://www.exoticshunter.com/imagetag/387/main/l/Used-2019-Mercedes-Benz-AMG-GT-63-S-Edition-1-w-200K-MSRP-CCBs-Vossen-Forged-Wheels-1682001062.jpg"
+    }
+]
